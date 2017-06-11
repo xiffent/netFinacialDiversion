@@ -7,9 +7,7 @@
     <artifactId>yijiaersan-netFinacialDiversion</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.yijiaersan.netFinacialDiversion</groupId>
   <artifactId>yijiaersan-netFinacialDiversion-services</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <name>yijiaersan-netFinacialDiversion-services</name>
   <url>http://maven.apache.org</url>
   <properties>
