@@ -21,5 +21,6 @@
   	<module>yijiaersan-netFinacialDiversion-dao</module>
   	<module>yijiaersan-netFinacialDiversion-dto</module>
   	<module>yijiaersan-netFinacialDiversion-webapp</module>
+  	<module>yijiaersan-netFinacialDiversion-utils</module>
   </modules>
 </project>
